@@ -1,16 +1,48 @@
-## Hi there 👋
+<div id="header" align="center">
+  <img src="https://media4.giphy.com/media/hVEBWRInEvNOEVS18i/giphy.gif" width="300"/>
+</div>
 
-<!--
-**hosein-mhg/hosein-mhg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges" align="center">
+  <a href="https://t.me/hosein_mhg">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<h1 align="center">
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="cen" align="center">
+  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
+</div>
+
+---
+
+### :man_technologist: About Me :
+
+- I am a backend developer and Telegram bot <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <img src="https://media3.giphy.com/media/ya4eevXU490Iw/giphy.gif" width="25">
+- I Enjoy contributing to open source projects and be eager to learn new technologies. 🔍
+- In my free time, I read tech articles. :zap:
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://hosein_mhg)
+
+---
+
+### :hammer_and_wrench: My Skills :
+
+<div>
+  <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original-wordmark.svg" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/raw/master/icons/pytest/pytest-original-wordmark.svg" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original-wordmark.svg" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/raw/master/icons/gitlab/gitlab-original-wordmark.svg" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/raw/master/icons/django/django-plain-wordmark.svg" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original-wordmark.svg" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/raw/master/icons/djangorest/djangorest-original-wordmark.svg" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-plain-wordmark.svg" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain-wordmark.svg" width="80" height="80"/>&nbsp;
+</div>
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hosein-mhg&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
